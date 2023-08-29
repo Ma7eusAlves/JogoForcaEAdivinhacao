@@ -1,0 +1,14 @@
+banana
+melancia
+morango
+abacaxi
+uva
+amora
+kiwi
+pitanga
+laranja
+abacate
+groselha
+damasco
+
+
